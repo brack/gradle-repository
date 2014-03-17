@@ -1,0 +1,10 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Fri Mar 14 10:45:29 EDT 2014
+http\://repo.maven.apache.org/maven2/.lastUpdated=1394808329747
+https\://nexus.brandingbrand.com/nexus/content/repositories/snapshots/.error=
+default-https\://nexus.brandingbrand.com/nexus/content/repositories/thirdparty/.lastUpdated=1394808329654
+https\://nexus.brandingbrand.com/nexus/content/repositories/thirdparty/.error=Could not transfer artifact com.flurry\:flurry-agent\:pom\:3.3.0 from/to thirdparty (https\://nexus.brandingbrand.com/nexus/content/repositories/thirdparty)\: Failed to transfer file\: https\://nexus.brandingbrand.com/nexus/content/repositories/thirdparty/com/flurry/flurry-agent/3.3.0/flurry-agent-3.3.0.pom. Return code is\: 502, ReasonPhrase\: Bad Gateway.
+https\://nexus.brandingbrand.com/nexus/content/repositories/snapshots/.lastUpdated=1393860034772
+http\://repo.maven.apache.org/maven2/.error=
+3b0ef369f129030b026019014a07cb545a3e86f7@default-https\://nexus.brandingbrand.com/nexus/content/repositories/releases/.lastUpdated=1394808329620
+https\://nexus.brandingbrand.com/nexus/content/repositories/releases/.error=Could not transfer artifact com.flurry\:flurry-agent\:pom\:3.3.0 from/to bb.nexus.repo (https\://nexus.brandingbrand.com/nexus/content/repositories/releases/)\: Failed to transfer file\: https\://nexus.brandingbrand.com/nexus/content/repositories/releases/com/flurry/flurry-agent/3.3.0/flurry-agent-3.3.0.pom. Return code is\: 502, ReasonPhrase\: Bad Gateway.
